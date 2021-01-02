@@ -135,6 +135,9 @@
    
    }
    @endif
+.invalid-feedback {
+	display:block !important;
+}
   </style>
 </head>
 
